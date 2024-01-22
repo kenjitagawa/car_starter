@@ -1,0 +1,4 @@
+.env
+.venv/
+API_REQUESTS/
+.DS_Store
